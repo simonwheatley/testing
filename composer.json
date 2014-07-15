@@ -1,0 +1,16 @@
+{
+    "name"       : "simonwheatley/testing",
+    "description": "Testing stuff",
+    "homepage"   : "https://github.com/simonwheatley/testing/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "authors"    : [
+            {
+                    "name"    : "Simon Wheatley",
+                    "homepage": "http://simonwheatley.co.uk/"
+            }
+    ],
+    "require": {
+            "composer/installers": "~1.0"
+    }
+}
